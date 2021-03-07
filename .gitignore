@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/Problems/Parameters and their values/out/
+/Problems/Parameters and their values/out/production/classes/
+/Simple Banking System/task/build/
+/Simple Banking System/task/out/
+/Simple Banking System/task/out/production/classes/
+/Simple Banking System/task/tempDatabase.s3db
